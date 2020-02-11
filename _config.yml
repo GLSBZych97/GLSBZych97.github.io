@@ -12,24 +12,12 @@ url: "http://glsbzych97.io"
 # Social
 social:
     weibo: 5366874726 
-    github: leopardpan
-    # zhihu: panpanleopard
-    # juejin: xxx
+    github: GLSBZych97
+
     jianshu: 2ada30d8d0f7
     # twitter: 
-    mail: leopardpan@icloud.com
+    mail: 973203953@qq.com
 
-
-# 百度统计 
-# 使用博客模板请去掉或者更换 id 
-baidu:
-    id: xxxx  
-
-# Google Analytics
-# 使用博客模板请去掉或者更换 id
-ga:
-    id: xxxx  
-    host: auto  
 
 
 # 《----------------- 上面的信息修改成你自己的 ---------------------------》
