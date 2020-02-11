@@ -1,27 +1,40 @@
 # Basic
-title: 尹昌辉
+title: 潘柏信
 subtitle: 个人站
 description: 欢迎来到我的个人站~
 # 头像里面的标题
-avatarTitle: 我欲乘鸟追风去
+avatarTitle: leopardpan
 # 头像里面的描述
-avatarDesc: Python / 生物信息学/HTML/计算机跨考
-url: "http://glsbzych97.io"
+avatarDesc: iOS / 机器学习
+url: "http://baixin.io"
 
+# Comment
+comment:
+    disqus: leopard
+    # gitment: xxx // 需要修改 comments.html中的client_id和client_secret
+    # uyan: 2143225  # 有言id,登录有言官网申请
 
 # Social
 social:
     weibo: 5366874726 
-    github: GLSBZych97
-
+    github: leopardpan
+    # zhihu: panpanleopard
+    # juejin: xxx
     jianshu: 2ada30d8d0f7
     # twitter: 
-    mail: 973203953@qq.com
+    mail: leopardpan@icloud.com
 
+
+# 百度统计 
+# 使用博客模板请去掉或者更换 id 
+baidu:
+    id: xxxx  
+
+# Google Analytics
+# 使用博客模板请去掉或者更换 id
 ga:
     id: xxxx  
-    host: auto 
-
+    host: auto  
 
 
 # 《----------------- 上面的信息修改成你自己的 ---------------------------》
