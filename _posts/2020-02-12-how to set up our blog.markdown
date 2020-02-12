@@ -14,7 +14,7 @@ tag: 如何搭建博客
 ###1.计算机网络
 &emsp;&emsp;计算机网络所涉及的内容过于庞杂，因此我就只简单介绍一下我们平常访问一个网页的原理是什么。平常我们访问网页，比如说www.github.com，当我们在浏览器输入并回车以后，浏览器会自动使用DNS协议向DNS服务器发送数据包，DNS服务器会返回给我们GitHub的IP地址，然后浏览器会根据GitHub的IP地址去访问它的服务器，然后下载我们所访问的网页的html再展示给用户。  
 &emsp;&emsp;说白了就是一个客户端，一个服务端，客户端发送请求，服务端进行后台操作并返回客户端的请求。中间会通过DNS协议帮我们解析IP地址。  
-<div align=center> ![Alt text](./computer internet.jpg)
+<div align=center> ![Alt text](./images/posts/computer internet.jpg)
 
 ###2.常见的搭博客的方法
 本人只介绍两个我比较熟悉方法，如果有其他的，欢迎补充~~  
